@@ -1,7 +1,4 @@
-Ibrahem Wattaweda - 207154212
-Odai Wattad -       314821943
-
-screenshots to show examples i do pdf page named  Sc_Examples.
+author: Ibrahem Wattaweda
 
 Title of the project:
 In this project we have pictures with writing on yellow colored lines 
